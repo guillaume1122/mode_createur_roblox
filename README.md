@@ -25,6 +25,7 @@
 ![Captureselect](https://user-images.githubusercontent.com/94695753/143551818-6f0b3c8f-659d-466a-8ae9-d43843eebf52.PNG)
 ##### Voici un checkpoint.
 ![Capturecechkbon](https://user-images.githubusercontent.com/94695753/143552068-5c939e4c-9f9f-449c-96ca-6682b3f5c8eb.PNG)
+##### Voici comment dupliquer les checkpoints.
 
 
 ##### Placez des KillBricks à l'aide du toolbox ou prenez seulement les KillBricks qui sont deja placées dans le Obby pour les dupliquer,modifier et autres. (Un KillBrick est un block qui tue le personnage au contact pour le faire réaparaitre et recommencer le stage)
@@ -53,3 +54,5 @@
 ![Captureciel3](https://user-images.githubusercontent.com/94695753/143548200-375a1c52-8cf4-4bbb-a983-866f14125fa9.PNG)
 ![Captureciel2](https://user-images.githubusercontent.com/94695753/143548203-4a39f006-c049-4658-ac53-01ecdf15a3b2.PNG)
 ![Captureciel](https://user-images.githubusercontent.com/94695753/143548204-563b65bc-ecdd-4036-a842-5e819b156129.PNG)
+
+##### Ceci était les bases pour créer un obby/parcour dans le mode créateur de Roblox.
