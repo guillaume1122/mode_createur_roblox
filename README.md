@@ -11,7 +11,7 @@
 ## Télécharger Roblox Studio
 ![Capturedenlode2](https://user-images.githubusercontent.com/94695753/143541909-a79d82bb-a760-491c-9562-912655da450d.PNG)
 
-##### télécharger Roblox Studio sur Internet ou par Roblox. C'est gratuit et facile à télécharger.
+##### télécharger Roblox Studio sur Internet ou par Roblox. C'est gratuit et facile à télécharger. Il suffit de mettre son compte roblox pour se connecter.
 
 ## Ouvrir Roblox Studio
 ![Capturedebut](https://user-images.githubusercontent.com/94695753/143543892-94a368f0-f67f-455c-ab26-b1bc36c53421.PNG)
