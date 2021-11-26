@@ -25,6 +25,7 @@
 ![Captureplay](https://user-images.githubusercontent.com/94695753/143546821-8887ef04-c538-4c4c-b19c-8d059d8e43df.PNG)
 ## Modifier et créer le parcours.
 
+##### Placez des KillBricks à l'aide du toolbox ou prenez seulement les KillBricks qui sont deja placées dans le Obby pour les dupliquer,modifier et autres. (Un KillBrick est un block qui tue le personnage au contact pour le faire réaparaitre et recommencer le stage)
 
 
 
