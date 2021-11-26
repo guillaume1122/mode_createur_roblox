@@ -21,6 +21,8 @@
 
 ##### Rajouter des plateformes 
 
+## Déplacez les ensuite avec la souris en mode select pour les situer.
+
 ##### Rajouter des checkpoints en dupliquant ceux qui sont deja dans le Obby ou en trouver dans le ToolBox. Déplacez les ensuite avec la souris en mode select pour les situer. Les checkpoints vont vous permettre de réapparaitre à certains stages pour ne pas recommencer du début à chaque fois.
 ![Captureselect](https://user-images.githubusercontent.com/94695753/143551818-6f0b3c8f-659d-466a-8ae9-d43843eebf52.PNG)
 ##### Voici un checkpoint.
