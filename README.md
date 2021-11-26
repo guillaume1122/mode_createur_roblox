@@ -13,8 +13,10 @@
 
 ##### télécharger Roblox Studio sur Internet ou par Roblox. C'est gratuit et facile à télécharger.
 
-## Ouvrir Roblox Studio et cliquer sur obby
+## Ouvrir Roblox Studio
 ![Capturedebut](https://user-images.githubusercontent.com/94695753/143543892-94a368f0-f67f-455c-ab26-b1bc36c53421.PNG)
+
+##### cliquer sur New et dans All Templates, sélectionner Obby.
 
 
 
