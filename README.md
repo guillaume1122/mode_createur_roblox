@@ -22,7 +22,7 @@
 ![Capture5](https://user-images.githubusercontent.com/94695753/143545476-11c63803-9e4e-4d25-a771-e9e5aa5419b7.PNG)
 ![Capture6](https://user-images.githubusercontent.com/94695753/143546474-80080510-5152-4540-8a0f-f146595557d6.PNG)
 ##### Vous allez apparaitre dans le Obby et vous allez pouvoir vous déplacer et compléter le parcours par défaut avec le bouton play.
-
+![Captureplay](https://user-images.githubusercontent.com/94695753/143546821-8887ef04-c538-4c4c-b19c-8d059d8e43df.PNG)
 ## Modifier et créer le parcours.
 
 
