@@ -27,6 +27,7 @@
 ##### Pour modifier les parts, allez dans le menu en bas à droite pour choisir l'apparence et transformer l'objet comme vous voulez.
 ![Capturepartmodifier](https://user-images.githubusercontent.com/94695753/143555115-c0fbd163-de7f-475e-9bf0-fa80d729a5c0.PNG)
 ##### j'ai modifié quelques blocs.
+![Capturebon1](https://user-images.githubusercontent.com/94695753/143555521-725aca44-4588-480a-b741-531e7360b592.PNG)
 
 
 
