@@ -45,7 +45,7 @@
 
 ## Modification esthétique optionelle
 ![Capture8](https://user-images.githubusercontent.com/94695753/143547458-9158ad17-7165-4d48-9239-dbab9c8060ba.PNG)à
-##### Vous pouvez modifier l'apparence de votre obby en changeant le ciel.
+##### Vous pouvez modifier l'apparence de votre obby en changeant le ciel depuis le toolbox.
 
 
 
