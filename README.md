@@ -1,13 +1,7 @@
 # Comment créer un jeu de type obby/parcour grâce au créateur Roblox Studio
 
-
-
-
 ![Roblox-Studio_1920x1080](https://user-images.githubusercontent.com/94695753/143539826-ef11aaa0-3761-4e6f-85e5-d4b90c503dab.jpg)
 ![Captureintro](https://user-images.githubusercontent.com/94695753/143545129-71c4e7ed-5883-41a9-bdbf-c4161bb86d8f.PNG)
-
-
-
 
 ## Télécharger Roblox Studio
 ![Capturedenlode2](https://user-images.githubusercontent.com/94695753/143541909-a79d82bb-a760-491c-9562-912655da450d.PNG)
@@ -55,10 +49,3 @@
 ![Captureciel3](https://user-images.githubusercontent.com/94695753/143548200-375a1c52-8cf4-4bbb-a983-866f14125fa9.PNG)
 ![Captureciel2](https://user-images.githubusercontent.com/94695753/143548203-4a39f006-c049-4658-ac53-01ecdf15a3b2.PNG)
 ![Captureciel](https://user-images.githubusercontent.com/94695753/143548204-563b65bc-ecdd-4036-a842-5e819b156129.PNG)
-
-# Fin 
-
-
-
-
-
