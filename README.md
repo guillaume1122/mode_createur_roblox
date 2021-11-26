@@ -25,6 +25,7 @@
 ![Capturepart2](https://user-images.githubusercontent.com/94695753/143554682-d4313b65-1586-4974-984e-66d1cda7b740.PNG)
 ![Capturepart](https://user-images.githubusercontent.com/94695753/143554687-5c5795dc-ffb1-4226-b02a-dbf62cebd473.PNG)
 ##### Pour modifier les parts, allez dans le menu en bas à droite pour choisir l'apparence et transformer l'objet comme vous voulez.
+![Capturepartmodifier](https://user-images.githubusercontent.com/94695753/143555115-c0fbd163-de7f-475e-9bf0-fa80d729a5c0.PNG)
 
 
 ##### Rajouter des checkpoints en dupliquant ceux qui sont deja dans le Obby ou en trouver dans le ToolBox. Déplacez les ensuite avec la souris en mode select pour les situer. Les checkpoints vont vous permettre de réapparaitre à certains stages pour ne pas recommencer du début à chaque fois.
