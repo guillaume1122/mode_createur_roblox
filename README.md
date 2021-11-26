@@ -23,6 +23,7 @@
 
 ##### Rajouter des checkpoints en dupliquant ceux qui sont deja dans le Obby ou en trouver dans le ToolBox. Déplacez les ensuite avec la souris en mode select pour les situer.
 ![Captureselect](https://user-images.githubusercontent.com/94695753/143551818-6f0b3c8f-659d-466a-8ae9-d43843eebf52.PNG)
+![Capturecechkbon](https://user-images.githubusercontent.com/94695753/143552068-5c939e4c-9f9f-449c-96ca-6682b3f5c8eb.PNG)
 
 
 ##### Placez des KillBricks à l'aide du toolbox ou prenez seulement les KillBricks qui sont deja placées dans le Obby pour les dupliquer,modifier et autres. (Un KillBrick est un block qui tue le personnage au contact pour le faire réaparaitre et recommencer le stage)
