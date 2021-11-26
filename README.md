@@ -29,7 +29,7 @@
 ![Capturego](https://user-images.githubusercontent.com/94695753/143553026-1e384c20-a028-4158-8773-adb1ef483c75.PNG)
 ![Capturecheck2](https://user-images.githubusercontent.com/94695753/143553156-488cef72-d86b-40e7-b28d-40f14fe175d5.PNG)
 ##### Voici comment prendre des checkpoints du toolbox.
-
+![Capturechecktool](https://user-images.githubusercontent.com/94695753/143553389-ff35cab8-0f46-45d3-9f80-1f6d4bdaea15.PNG)
 
 ##### Placez des KillBricks à l'aide du toolbox ou prenez seulement les KillBricks qui sont deja placées dans le Obby pour les dupliquer,modifier et autres. (Un KillBrick est un block qui tue le personnage au contact pour le faire réaparaitre et recommencer le stage)
 
