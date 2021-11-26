@@ -39,10 +39,6 @@
 
 
 
-
-
-
-
 ##### Modification esthétique optionelle.
 ##### Vous pouvez modifier l'apparence de votre obby en changeant le ciel depuis le toolbox. Recherchez Sky dans la barre de recherche du toolbox et testez différents ciels dans votre obby.
 ![Capture8](https://user-images.githubusercontent.com/94695753/143547458-9158ad17-7165-4d48-9239-dbab9c8060ba.PNG)à
