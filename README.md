@@ -13,7 +13,7 @@
 ##### télécharger Roblox Studio sur Internet ou par Roblox. C'est gratuit et facile à télécharger.
 
 
-#####
+##### Ouvrir Roblox Studio et cliquer sur obby
 
 
 
