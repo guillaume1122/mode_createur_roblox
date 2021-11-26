@@ -31,7 +31,7 @@
 ##### Voici comment prendre des checkpoints du toolbox.
 ![Capturechecktool](https://user-images.githubusercontent.com/94695753/143553389-ff35cab8-0f46-45d3-9f80-1f6d4bdaea15.PNG)
 
-##### Placez des KillBricks à l'aide du toolbox ou prenez seulement les KillBricks qui sont deja placées dans le Obby pour les dupliquer,modifier et autres. (Un KillBrick est un block qui tue le personnage au contact pour le faire réaparaitre et recommencer le stage)
+##### Placez des KillBricks à l'aide du toolbox ou prenez seulement les KillBricks qui sont deja placées dans le Obby pour les dupliquer,modifier et autres. (Un KillBrick est un block qui tue le personnage au contact pour le faire réaparaitre et recommencer le stage). Déplacez les ensuite avec la souris en mode select pour les situer.
 
 ![Capturebrick2](https://user-images.githubusercontent.com/94695753/143550014-83462d94-5a2f-4f4a-8be7-df26c4d3d83e.PNG)
 ![Capturebrick](https://user-images.githubusercontent.com/94695753/143550017-02c9d986-1905-4bb3-b429-3936f1e04f63.PNG)
