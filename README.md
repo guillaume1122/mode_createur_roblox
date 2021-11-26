@@ -39,6 +39,7 @@
 
 ![Capturebrick2](https://user-images.githubusercontent.com/94695753/143550014-83462d94-5a2f-4f4a-8be7-df26c4d3d83e.PNG)
 ![Capturebrick](https://user-images.githubusercontent.com/94695753/143550017-02c9d986-1905-4bb3-b429-3936f1e04f63.PNG)
+##### Il ne reste plus qu'à créer le parcours.
 
 ##### Modification esthétique optionelle.
 ##### Vous pouvez modifier l'apparence de votre obby en changeant le ciel depuis le toolbox. Recherchez Sky dans la barre de recherche du toolbox et testez différents ciels dans votre obby.
