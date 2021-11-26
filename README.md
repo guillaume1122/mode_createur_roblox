@@ -21,7 +21,7 @@
 
 ##### Rajouter des plateformes 
 
-##### Rajouter des checkpoints en dupliquant ceux qui sont deja dans le Obby ou en trouver dans le ToolBox. Déplacez les ensuite avec la souris pour les situer.
+##### Rajouter des checkpoints en dupliquant ceux qui sont deja dans le Obby ou en trouver dans le ToolBox. Déplacez les ensuite avec la souris en mode select pour les situer.
 
 
 
